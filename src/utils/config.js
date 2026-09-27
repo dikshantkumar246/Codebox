@@ -61,3 +61,5 @@ const config = {
 };
 
 export default config;
+
+console.log("Hello, World!");

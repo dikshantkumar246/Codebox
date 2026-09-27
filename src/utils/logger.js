@@ -13,3 +13,5 @@ const logger = pino({
 });
 
 export default logger;
+
+console.log("Logger initialized with level:", logger.level);
